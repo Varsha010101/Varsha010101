@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400px" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varsha010101&label=Profile%20views&color=0e75b6&style=flat" alt="varsha010101" /> </p>
 
-- 🌱 I’m currently learning **AI/ML using TensorFlow**
+- 🌱 Embarking on a journey into **AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://replit.com/~](https://replit.com/~)
-
-- 💬 Ask me about **Java,C,C++,Python**
+- 👨‍💻 Discover my coding portfolio at **Varsha010101**
+  
+- 💬 Ask me about **Full-Stack Development**
 
 - 📫 How to reach me **varshagupta010101@gmail.com**
 
@@ -17,11 +17,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/varshagupta01" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varsha gupta" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/varsha gupta" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="varsha gupta" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/varsha gupta" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varsha gupta" height="30" width="40" /></a>
-
+  <a href="https://www.linkedin.com/in/varshagupta01" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/varshagupta" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/varshagupta" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
+
 
 
 ## GSSOC(24) Badges 🪶
