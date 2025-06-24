@@ -1,5 +1,5 @@
 ![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)
-<h1 align="center">Hi 👋, I'm Varsha Gupta</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>, I'm Varsha Gupta</h1>
 <h3 align="center">Journeying Through Digital Realm</h3>
 <img align="right" alt="Coding" width="400px" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left">
